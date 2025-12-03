@@ -89,7 +89,6 @@ npm run dev
 ### اضافه کردن کامپوننت جدید shadcn/ui
 
 ```bash
-npx shadcn-ui@latest add button
 npx shadcn-ui@latest add card
 # یا هر کامپوننت دلخواه
 ```
@@ -103,10 +102,6 @@ npx shadcn-ui@latest add card
 3. تغییرات را کامیت کنید (`git commit -m 'Add some amazing feature'`)
 4. پوش کنید (`git push origin feature/amazing-feature`)
 5. یک Pull Request باز کنید
-
-## 📄 لایسنس
-
-این پروژه تحت لایسنس **MIT** منتشر شده است. جزئیات بیشتر در فایل [LICENSE](LICENSE).
 
 ## 🌟 حمایت
 
